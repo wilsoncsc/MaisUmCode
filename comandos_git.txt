@@ -6,4 +6,5 @@ git restore "nome arquivo" (retorna ao estado do arquivo anterior)
 git checkout "nome arquivo" (como o restore)
 git rm --cached "nome arquivo" (deixa de rastrear o arquivo)
 git init (inicializa o git)
+.gitignore (ignora arquivo)
 
