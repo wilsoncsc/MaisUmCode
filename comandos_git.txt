@@ -1,0 +1,9 @@
+git add . (adiciona todos arquivos)
+git add "nome arquivo" (adiciona arquivo)
+git commit -m "nome dos arquivos" (rastrear arquivos e sobe)
+git status (controla se os arquivos estão sendo rastreados ou não)
+git restore "nome arquivo" (retorna ao estado do arquivo anterior)
+git checkout "nome arquivo" (como o restore)
+git rm --cached "nome arquivo" (deixa de rastrear o arquivo)
+git init (inicializa o git)
+
